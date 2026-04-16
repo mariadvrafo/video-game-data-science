@@ -96,5 +96,5 @@ Rather than focusing only on model performance, it emphasizes critical thinking,
 ---
 
 ##  Links
-- 📊 Dashboard: [(agregá tu link de Power BI)](https://app.powerbi.com/view?r=eyJrIjoiY2NkZjFmZWEtZWM3Ni00YjI5LWFkODQtMGVmZDE4ZWQ4YjcxIiwidCI6IjhiMThhYzYwLWZmNzktNDY4YS1iMDIxLTQ3NmYyOGIyZDU5NyIsImMiOjR9)
+- 📊 Dashboard:  https://app.powerbi.com/view?r=eyJrIjoiY2NkZjFmZWEtZWM3Ni00YjI5LWFkODQtMGVmZDE4ZWQ4YjcxIiwidCI6IjhiMThhYzYwLWZmNzktNDY4YS1iMDIxLTQ3NmYyOGIyZDU5NyIsImMiOjR9
 - 💻 Notebooks: /notebooks
