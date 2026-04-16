@@ -96,5 +96,5 @@ Rather than focusing only on model performance, it emphasizes critical thinking,
 ---
 
 ##  Links
-- 📊 Dashboard:   [Hacer click](https://app.powerbi.com/view?r=eyJrIjoiY2NkZjFmZWEtZWM3Ni00YjI5LWFkODQtMGVmZDE4ZWQ4YjcxIiwidCI6IjhiMThhYzYwLWZmNzktNDY4YS1iMDIxLTQ3NmYyOGIyZDU5NyIsImMiOjR9)
-- 💻 Notebooks: [Hacer click](https://github.com/mariadvrafo/video-game-data-science/tree/main/notebooks)
+- 📊 Dashboard:   [Click](https://app.powerbi.com/view?r=eyJrIjoiY2NkZjFmZWEtZWM3Ni00YjI5LWFkODQtMGVmZDE4ZWQ4YjcxIiwidCI6IjhiMThhYzYwLWZmNzktNDY4YS1iMDIxLTQ3NmYyOGIyZDU5NyIsImMiOjR9)
+- 💻 Notebooks: [Click](https://github.com/mariadvrafo/video-game-data-science/tree/main/notebooks)
