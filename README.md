@@ -1,15 +1,15 @@
-# 🎮 Video Game Sales - Data Science Project
+#  Video Game Sales - Data Science Project
 
-🚀 End-to-end Data Science project focused on predicting video game sales and analyzing market segmentation.
+ End-to-end Data Science project focused on predicting video game sales and analyzing market segmentation.
 
 ---
 
-## 🎯 Objective
+##  Objective
 Develop a machine learning model to predict global video game sales and support business decision-making.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - 16,325 records  
 - Features:
   - Platform
@@ -20,7 +20,7 @@ Develop a machine learning model to predict global video game sales and support 
 
 ---
 
-## ⚠️ Key Challenge: Data Leakage
+## Key Challenge: Data Leakage
 Initial models showed unrealistically high performance due to the inclusion of regional sales (NA, EU, JP), which directly sum to global sales.
 
 After removing these variables:
@@ -29,7 +29,7 @@ After removing these variables:
 
 ---
 
-## 🤖 Models
+## Models
 
 ### Regression
 - Random Forest Regressor  
@@ -47,7 +47,7 @@ After removing these variables:
 
 ---
 
-## 📈 Results (After Fixing Leakage)
+##  Results (After Fixing Leakage)
 
 - RMSE (Random Forest): ~2.10  
 - RMSE (Linear Regression): ~1.97  
@@ -57,7 +57,7 @@ After removing these variables:
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - Action games dominate globally, while RPGs lead in Japan  
 - Sales decline after 2010 (shift toward digital distribution)  
 - Year of release is the most influential variable  
@@ -66,14 +66,14 @@ After removing these variables:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Lack of data on marketing and user behavior  
 - High dimensionality due to one-hot encoding  
 - Limited predictive power  
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 - Feature engineering and dimensionality reduction  
 - Integration of external data sources  
 - Hyperparameter tuning  
@@ -88,13 +88,13 @@ After removing these variables:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project highlights the importance of proper data preprocessing, especially avoiding data leakage.
 
 Rather than focusing only on model performance, it emphasizes critical thinking, model validation, and real-world applicability.
 
 ---
 
-## 🔗 Links
+##  Links
 - 📊 Dashboard: [(agregá tu link de Power BI)](https://app.powerbi.com/view?r=eyJrIjoiY2NkZjFmZWEtZWM3Ni00YjI5LWFkODQtMGVmZDE4ZWQ4YjcxIiwidCI6IjhiMThhYzYwLWZmNzktNDY4YS1iMDIxLTQ3NmYyOGIyZDU5NyIsImMiOjR9)
 - 💻 Notebooks: /notebooks
